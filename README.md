@@ -18,7 +18,7 @@ A project for the modeling and control of a robotic arm. This project is part of
 
 ---
 
-## Contact Contributors
+## Contributors
 - **Abdelrahman Abdelhamed** 
 - **Marina Gabarda López ** 
 - **Shahriar Hassan** 
