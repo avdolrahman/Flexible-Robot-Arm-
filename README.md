@@ -1,4 +1,4 @@
-#  Modelling and Control of Flexible-Robot-Arm-
+#  Modelling and Control of Flexible Robot Arm
 Applying the LQG Controller to control Robotic Arm ARM
 
 
