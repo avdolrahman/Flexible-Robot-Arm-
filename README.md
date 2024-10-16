@@ -1,5 +1,5 @@
 #  Modelling and Control of Flexible Robot Arm
-Applying the LQG Controller to control Robotic Arm ARM
+Applying the LQG Controller to control Robotic Arm 
 
 
 A project for the modeling and control of a robotic arm. This project is part of the Control of Cyberphysical Systems course in the Master of Electrical and Computer Engineering, MIR Program, University of Lisboa, Lisbon.
